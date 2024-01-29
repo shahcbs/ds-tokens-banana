@@ -9,7 +9,7 @@ console.log('Build started...');
 console.log('\n==============================================');
 
 const themesConfig = JSON.parse(fs.readFileSync('./tokens/$themes.json', 'utf8'));
-const themeFiles = fs.readdirSync(`${themesConfig.tokenSetsDirPath}/themes/`);
+const themeFiles = fs.readdirSync(`${themesConfig.tokenSetsDirPath}/02_themes/`);
 const themes = themeFiles.map(file => file.replace('.json', ''));
 
 themes.forEach((themeName) => {

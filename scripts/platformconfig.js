@@ -10,11 +10,11 @@ function getThemeConfig(themeName) {
     // Check if the theme has any dependencies
     if (themesConfig.themeDependencies && themesConfig.themeDependencies[themeName]) {
         themesConfig.themeDependencies[themeName].forEach(dependency => {
-            sources.push(`${themesConfig.tokenSetsDirPath}/themes/${dependency}.json`);
+            sources.push(`${themesConfig.tokenSetsDirPath}/02_themes/${dependency}.json`);
         });
     }
 
-    sources.push(`${themesConfig.tokenSetsDirPath}/themes/${themeName}.json`);
+    sources.push(`${themesConfig.tokenSetsDirPath}/02_themes/${themeName}.json`);
 
     return {
         source: sources,
@@ -29,10 +29,6 @@ function getThemeConfig(themeName) {
                     options: {
                         outputReferences: true
                     }
-                },
-                {
-                    destination: "typography.css",
-                    format: "css/typography"
                 }]
             },
 
@@ -141,47 +137,6 @@ function getThemeConfig(themeName) {
                         filter: {
                             attributes: {
                                 category: "color"
-                            }
-                        }
-                    },
-                    {
-                        destination: "type.kt",
-                        format: "compose/typography",  //custom format
-
-                    },
-                    {
-                        destination: "spacing.kt",
-                        format: "compose/object",
-                        className: "Spacing",
-                        packageName: "Spacing",
-                        type: "float",
-                        filter: {
-                            attributes: {
-                                category: "spacing"
-                            }
-                        }
-                    },
-                    {
-                        destination: "size.kt",
-                        format: "compose/object",
-                        className: "Size",
-                        packageName: "Size",
-                        type: "float",
-                        filter: {
-                            attributes: {
-                                category: "size"
-                            }
-                        }
-                    },
-                    {
-                        destination: "fontSize.kt",
-                        format: "compose/object",
-                        className: "Size",
-                        packageName: "fontSize",
-                        type: "float",
-                        filter: {
-                            attributes: {
-                                category: "font-size"
                             }
                         }
                     }
