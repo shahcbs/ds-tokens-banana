@@ -11,7 +11,7 @@ This repository demonstrates the use of design tokens across multiple platforms.
 
 ## Design Tokens
 
-Design tokens are stored in the `tokens` directory. They are categorized into `base` and `themes`.
+Design tokens are stored in the `tokens` directory. They are categorized into `01_global` and `02_themes`.
 
 ### Base Tokens
 
