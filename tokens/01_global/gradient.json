@@ -1,0 +1,264 @@
+{
+  "color": {
+    "gradient": {
+      "Warm Flame": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #ff9a9e 0%, #fad0c4 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #ff9a9e 0%, #fad0c4 100%)",
+          "type": "color"
+        }
+      },
+      "Night Fade": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #a18cd1 0%, #fbc2eb 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #a18cd1 0%, #fbc2eb 100%)",
+          "type": "color"
+        }
+      },
+      "Juicy Peach": {
+        "Left to Right": {
+          "value": "linear-gradient(0deg, #ffecd2 0%, #fcb69f 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(90deg, #ffecd2 0%, #fcb69f 100%)",
+          "type": "color"
+        }
+      },
+      "Sunny Morning": {
+        "Left to Right": {
+          "value": "linear-gradient(0deg, #f7ce68 0%, #fbab7e 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(90deg, #f7ce68 0%, #fbab7e 100%)",
+          "type": "color"
+        }
+      },
+      "Winter Neva": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #a1c4fd 0%, #c2e9fb 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #a1c4fd 0%, #c2e9fb 100%)",
+          "type": "color"
+        }
+      },
+      "Loupe Fiesta": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #105efb 0%, #199afb 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #105efb 0%, #199afb 100%)",
+          "type": "color"
+        }
+      },
+      "Soft Grass": {
+        "Left to Right": {
+          "value": "linear-gradient(0deg, #deecdd 0%, #c1dfc4 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(90deg, #deecdd 0%, #c1dfc4 100%)",
+          "type": "color"
+        }
+      },
+      "Ripe Malinka": {
+        "Left to Right": {
+          "value": "linear-gradient(0deg, #f093fb 0%, #f5576c 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(90deg, #f093fb 0%, #f5576c 100%)",
+          "type": "color"
+        }
+      },
+      "New York": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #ace0f9 0%, #fff1eb 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #ace0f9 0%, #fff1eb 100%)",
+          "type": "color"
+        }
+      },
+      "Plum Plate": {
+        "Left to Right": {
+          "value": "linear-gradient(0deg, #667eea 0%, #764ba2 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(90deg, #667eea 0%, #764ba2 100%)",
+          "type": "color"
+        }
+      },
+      "Light Mist": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #e8e8e8 0%, #ffffff 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #e8e8e8 0%, #ffffff 100%)",
+          "type": "color"
+        }
+      },
+      "Miami Shore": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #5d45f9 0%, #267deb 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #5d45f9 0%, #267deb 100%)",
+          "type": "color"
+        }
+      },
+      "Vanusa": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #89216b 0%, #da4453 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #89216b 0%, #da4453 100%)",
+          "type": "color"
+        }
+      },
+      "Ocean View": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #3f2b96 0%, #a8c0ff 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #3f2b96 0%, #a8c0ff 100%)",
+          "type": "color"
+        }
+      },
+      "Sandy Bleue": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #ffe8b7 0%, #b8d8ff 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #ffe8b7 0%, #b8d8ff 100%)",
+          "type": "color"
+        }
+      },
+      "Quepal": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #38ef7d 0%, #11998e 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #38ef7d 0%, #11998e 100%)",
+          "type": "color"
+        }
+      },
+      "Sublime Light": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #6a82fb 0%, #fc5c7d 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #6a82fb 0%, #fc5c7d 100%)",
+          "type": "color"
+        }
+      },
+      "Lawrencium": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #24243e 0%, #0f0c29 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #24243e 0%, #0f0c29 100%)",
+          "type": "color"
+        }
+      },
+      "Happy People": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #96c93d 0%, #00b09b 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #96c93d 0%, #00b09b 100%)",
+          "type": "color"
+        }
+      },
+      "Delicate": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #d3cce3 0%, #e9e4f0 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #d3cce3 0%, #e9e4f0 100%)",
+          "type": "color"
+        }
+      },
+      "Orange Fun": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #fc4a1a 0%, #f7b733 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #fc4a1a 0%, #f7b733 100%)",
+          "type": "color"
+        }
+      },
+      "Purpink": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #7f00ff 0%, #e100ff 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #7f00ff 0%, #e100ff 100%)",
+          "type": "color"
+        }
+      },
+      "Dull Days": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #c9d6ff 0%, #e2e2e2 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #c9d6ff 0%, #e2e2e2 100%)",
+          "type": "color"
+        }
+      },
+      "Scooter": {
+        "Left to Right": {
+          "value": "linear-gradient(180deg, #5b86e5 0%, #36d1dc 100%)",
+          "type": "color"
+        },
+        "Top to Bottom": {
+          "value": "linear-gradient(270deg, #5b86e5 0%, #36d1dc 100%)",
+          "type": "color"
+        }
+      },
+      "Overlay": {
+        "Dark Bottom Shade": {
+          "value": "linear-gradient(90deg, #30303000 0%, #303030d9 100%)",
+          "type": "color"
+        },
+        "Darkop Shade": {
+          "value": "linear-gradient(90deg, #303030d9 0%, #30303000 100%)",
+          "type": "color"
+        },
+        "Light Bottom Shade": {
+          "value": "linear-gradient(90deg, #ffffff00 0%, #ffffffd9 100%)",
+          "type": "color"
+        },
+        "Lightop Shade": {
+          "value": "linear-gradient(90deg, #ffffffd9 0%, #ffffff00 100%)",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

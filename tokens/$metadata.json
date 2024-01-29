@@ -1,6 +1,9 @@
 {
   "tokenSetOrder": [
-    "01_global/base",
+    "01_global/color",
+    "01_global/gradient",
+    "01_global/typography",
+    "01_global/shadows",
     "02_themes/light",
     "02_themes/dark",
     "02_themes/hc",
