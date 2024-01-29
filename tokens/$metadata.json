@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "01_global/base",
+    "02_themes/light",
+    "02_themes/dark",
+    "02_themes/hc",
+    "03_brands/brand a",
+    "03_brands/brand b"
+  ]
+}

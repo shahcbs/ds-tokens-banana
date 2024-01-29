@@ -1,0 +1,34 @@
+{
+  "fontFamilies": {
+    "headlines": {
+      "value": "Roboto Slab",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeights": {
+    "headlines": {
+      "bold": {
+        "value": "Black",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Thin",
+        "type": "fontWeights"
+      }
+    },
+    "body": {
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    }
+  }
+}
