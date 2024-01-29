@@ -15,9 +15,7 @@ Design tokens are stored in the `tokens` directory. They are categorized into `b
 
 ### Base Tokens
 
-- `border.json`: Contains base design tokens related to borders.
 - `color.json`: Contains base design tokens related to colors.
-- `typography.json`: Contains base design tokens related to typography.
 
 ### Theme Tokens
 
@@ -30,13 +28,13 @@ Design tokens are stored in the `tokens` directory. They are categorized into `b
 1. **Clone the repository**:
    
 ```bash
-git clone https://github.com/shahcbs/design-tokens-multi-platform-demo.git
+git clone https://github.com/shahcbs/ds-tokens-banana.git             
 ```
 
 2. **Navigate to the root directory**:
 
 ```bash
-cd design-tokens-multi-platform-demo
+cd ds-tokens-banana
 ```
 
 3. **Install the required npm packages**:
