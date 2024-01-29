@@ -1,4 +1,4 @@
-# VDS-Multi-Platform-Design-Tokens
+# ds-banana
 
 This repository demonstrates the use of design tokens across multiple platforms. Design tokens are a way to store design decisions, such as colors, typography, and spacing, in a format that can be easily consumed by different platforms and tools.
 
