@@ -57,4 +57,4 @@ npm run clean
 
 ## Customization
 
-You can customize the design tokens by modifying the JSON files in the `tokens` directory. Additionally, you can add custom transformations by updating the `customtransforms.js` file and platform-specific configurations by updating the `platformconfig.js` file.
+You can customize the design tokens by syncing with Figma file or modifying the JSON files in the `tokens` directory. Additionally, you can add custom transformations by updating the `customtransforms.js` file and platform-specific configurations by updating the `platformconfig.js` file.
