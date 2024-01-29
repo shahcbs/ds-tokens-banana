@@ -154,10 +154,10 @@ function getThemeConfig(themeName) {
                 ],
                 files: [
                     {
-                        destination: "VDSColor.h",
+                        destination: "Color.h",
                         format: "ios/colors.h",
-                        className: "VDSColor",
-                        type: "VDSColorName",
+                        className: "Color",
+                        type: "ColorName",
                         filter: {
                             attributes: {
                                 category: "color"
@@ -165,10 +165,10 @@ function getThemeConfig(themeName) {
                         }
                     },
                     {
-                        destination: "VDSColor.m",
+                        destination: "Color.m",
                         format: "ios/colors.m",
-                        className: "VDSColor",
-                        type: "VDSColorName",
+                        className: "Color",
+                        type: "ColorName",
                         filter: {
                             attributes: {
                                 category: "color"
@@ -189,9 +189,9 @@ function getThemeConfig(themeName) {
                 ],
                 files: [
                     {
-                        "destination": "VDS.swift",
+                        "destination": "Color.swift",
                         "format": "ios-swift/class.swift",
-                        "className": "VDS",
+                        "className": "",
                         "filter": {}
                     }
                 ]
@@ -208,9 +208,9 @@ function getThemeConfig(themeName) {
                 ],
                 files: [
                     {
-                        destination: "VDSColor.swift",
+                        destination: "Color.swift",
                         format: "ios-swift/enum.swift",
-                        className: "VDSColor",
+                        className: "Color",
                         filter: {
                             attributes: {
                                 category: "color"
@@ -218,9 +218,9 @@ function getThemeConfig(themeName) {
                         }
                     },
                     {
-                        destination: "VDSSize.swift",
+                        destination: "Size.swift",
                         format: "ios-swift/enum.swift",
-                        className: "VDSSize",
+                        className: "Size",
                         filter: {
                             attributes: {
                                 category: "size"
