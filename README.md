@@ -22,7 +22,7 @@ Design tokens are stored in the `tokens` directory. They are categorized into `0
 - `light.json`: Contains theme-specific design tokens for the light theme.
 - `dark.json`: Contains theme-specific design tokens for the dark theme.
 - `hc.json`: Contains theme-specific design tokens for the hc theme.
-- 
+  
 ## Setup and Usage
 
 1. **Clone the repository**:
