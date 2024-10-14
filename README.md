@@ -1,6 +1,6 @@
 # ds-banana
 
-This repository demonstrates the use of design tokens used in Figma library. Design tokens are a way to store design decisions, such as colors, typography, and spacing, in a format that can be easily consumed by different platforms and tools.
+This repository demonstrates scalable design tokens with components used in the Figma library. Design tokens are a way to store design decisions, such as colors, typography, and spacing, in a format that different platforms and tools can easily consume.
 
 [Figma Link](https://www.figma.com/file/iaFyU9C4kWR2agFnxdMHpL/Banana-UI-KIT?type=design&node-id=0%3A589&mode=design&t=YQYCXEWuGd8F3cLi-1)
 
